@@ -1,4 +1,7 @@
-![IgorKawczynski's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorKawczynski&theme=synthwave&show_icons=true)
+![Hi there 👊
+ 🌱 I’m currently learning Frontend + Unity environment.
+ 📫 How to reach me: 
+          send me message on : kluseczkibabuni94@gmail.com](https://github-readme-stats.vercel.app/api?username=IgorKawczynski&theme=synthwave&show_icons=true)
 ### Hi there 👊
 
 
