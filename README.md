@@ -1,4 +1,4 @@
-?theme=synthwave
+![IgorKawczynski's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorKawczynski&theme=synthwave&show_icons=true)
 ### Hi there 👊
 
 
