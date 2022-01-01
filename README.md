@@ -4,6 +4,8 @@
 ### 🌱 I’m currently learning Frontend + Python + Unity environment.
 ### 📫 How to reach me: 
           send me message on : kluseczkibabuni94@gmail.com
+          
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorKawczynski)](https://github.com/IgorKawczynski/github-readme-stats)
 
 <!--
 **IgorKawczynski/IgorKawczynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
