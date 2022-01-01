@@ -1,4 +1,4 @@
-### Hi there 👊
+### Hi there 👊&theme=synthwave
 
 
 ### 🌱 I’m currently learning Frontend + Python + Unity environment.
