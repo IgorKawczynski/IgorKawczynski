@@ -1,8 +1,8 @@
-&theme=synthwave
+?theme=synthwave
 ### Hi there 👊
 
 
-### 🌱 I’m currently learning Frontend + Python + Unity environment.
+### 🌱 I’m currently learning Frontend + Unity environment.
 ### 📫 How to reach me: 
           send me message on : kluseczkibabuni94@gmail.com
           
