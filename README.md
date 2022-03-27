@@ -1,8 +1,6 @@
-<br>                       Hi there 👊 I'm Igor - computer science student from Poland </br>
-
-
-<h2> 🧙‍♂️ I’m currently learning Frontend and working on first game project in UNITY.</h2>
-<h2> ⚡Technologies I'm using :</h2>
+<h2>Hi there 👊 I'm Igor - computer science student from Poland</h2>
+<br> 🧙‍♂️ I’m currently learning Frontend and working on first game project in UNITY.</br>
+<br> ⚡Technologies I'm using :</br>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="35" height="35" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="35" height="35" />
