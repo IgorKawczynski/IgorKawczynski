@@ -24,5 +24,6 @@
           
           
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorKawczynski&theme=jolly&exclude_repo=github-readme-stats,Algorithms-and-Data-Structures,DataVisualisation2021)](https://github.com/anuraghazra/github-readme-stats)
+![IgorKawczynski's counter](https://komarev.com/ghpvc/?username=IgorKawczynski&color=lightgrey)
 ![IgorKawczynski's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorKawczynski&theme=jolly&show_icons=true)
 <p align="left">Note: Most used languages doesn't indicate my level skill of those languages, it's just an github metric of which languages I have the most code on the site.</p>
