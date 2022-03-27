@@ -7,8 +7,8 @@
 <img src="https://cdn-icons.flaticon.com/png/128/3665/premium/3665923.png?token=exp=1648380939~hmac=609a457a0fd5216b9c471dd8dfd18b13" alt="c" width="35" height="35" />
 <img src="https://cdn-icons-png.flaticon.com/128/5969/5969294.png" alt="unity" width="35" height="35" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35" />
-<img src="https://cdn-icons-png.flaticon.com/128/5969/5969294.png" alt="git" width="35" height="35" />
-<img src=https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="html5" width="35" height="35" />
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="git" width="35" height="35" />
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="35" height="35" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35" />      
 </p>
