@@ -20,7 +20,7 @@
 &nbsp
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35" />      
 </p>
-### 📫 Info :
+<h2> 📫 Info : </h2>
           
           
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorKawczynski&theme=jolly&exclude_repo=github-readme-stats,Algorithms-and-Data-Structures,DataVisualisation2021)](https://github.com/anuraghazra/github-readme-stats)
