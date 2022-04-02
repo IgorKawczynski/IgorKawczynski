@@ -2,25 +2,41 @@
 <br> 🧙‍♂️ I’m currently learning Frontend and working on first game project in UNITY.</br>
 <h2> ⚡Technologies I'm using :</h2>
 <p align="left">
-<a href=https://www.python.org/>
+<a href=https://www.python.org>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="35" height="35" />
 </a>
 &nbsp
+<a href=https://www.java.com/pl>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="35" height="35" />
+</a>
 &nbsp
-<img src="https://cdn-icons.flaticon.com/png/128/3665/premium/3665923.png?token=exp=1648380939~hmac=609a457a0fd5216b9c471dd8dfd18b13" alt="c" width="35" height="35" />
+<a href=https://en.wikipedia.org/wiki/C_(programming_language)>
+<img src="https://www.clipartmax.com/png/small/351-3515666_c-language-global-or-external-variables-with-examples-c-programming-logo.png" alt="c" width="35" height="35" />
+</a>
 &nbsp
+<a href=https://unity.com>
 <img src="https://cdn-icons-png.flaticon.com/128/5969/5969294.png" alt="unity" width="35" height="35" />
+</a>
 &nbsp
+<a href=https://www.mysql.com>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35" />
+</a>
 &nbsp
+<a href=https://git-scm.com>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="git" width="35" height="35" />
+</a>
 &nbsp
+<a href=https://en.wikipedia.org/wiki/HTML>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="35" height="35" />
+</a>
 &nbsp
+<a href=https://en.wikipedia.org/wiki/CSS>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35" />
+</a>
 &nbsp
+<a href=https://en.wikipedia.org/wiki/JavaScript>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35" />      
+</a>
 </p>
 <h2> 📫 Info : </h2>
           
