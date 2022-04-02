@@ -11,7 +11,7 @@
 </a>
 &nbsp
 <a href=https://en.wikipedia.org/wiki/C_Sharp_(programming_language)>
-<img src="https://img.icons8.com/color/452/c-sharp-logo-2.png" alt="c#" width="35" height="35" />
+<img src="https://img.icons8.com/color/452/c-sharp-logo.png" alt="c#" width="35" height="35" />
 </a>
 &nbsp
 <a href=https://unity.com>
