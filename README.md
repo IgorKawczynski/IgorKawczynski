@@ -2,7 +2,9 @@
 <br> 🧙‍♂️ I’m currently learning Frontend and working on first game project in UNITY.</br>
 <h2> ⚡Technologies I'm using :</h2>
 <p align="left">
+<a href=https://www.python.org/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="35" height="35" />
+</a>
 &nbsp
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="35" height="35" />
 &nbsp
