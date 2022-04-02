@@ -10,8 +10,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="35" height="35" />
 </a>
 &nbsp
-<a href=https://en.wikipedia.org/wiki/C_(programming_language)>
-<img src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png" alt="c" width="35" height="35" />
+<a href=https://en.wikipedia.org/wiki/C_Sharp_(programming_language)>
+<img src="https://img.icons8.com/color/452/c-sharp-logo-2.png" alt="c#" width="35" height="35" />
 </a>
 &nbsp
 <a href=https://unity.com>
