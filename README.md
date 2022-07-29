@@ -47,7 +47,7 @@
 </a>
 &nbsp
 <a href=https://en.wikipedia.org/wiki/TypeScript>
-<img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="35" height="35" />      
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="35" height="35" />      
 </a>
 </p>
 <h2> 📫 Info : </h2>
