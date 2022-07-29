@@ -5,21 +5,13 @@
 <a href=https://www.python.org>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="35" height="35" />
 </a>
-<!--           https://raw.githubusercontent.com/devicons/devicon/ -->
-          
-          
-          
 &nbsp
 <a href=https://www.java.com/pl>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="35" height="35" />
 </a>
 &nbsp
 <a href=https://spring.io>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/2560px-Spring_Framework_Logo_2018.svg.png" alt="springboot" width="35" height="35" />      
-</a>
-&nbsp
-<a href=https://hibernate.com>
-<img src=https://iconape.com/wp-content/files/gn/352290/png/hibernate-logo.png" alt="hibernate" width="35" height="35" />      
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain-wordmark.svg" alt="springboot" width="35" height="35" />      
 </a>
 &nbsp
 <a href=https://en.wikipedia.org/wiki/C_Sharp_(programming_language)>
@@ -32,6 +24,10 @@
 &nbsp
 <a href=https://www.mysql.com>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35" />
+</a>
+&nbsp
+<a href=https://www.postgresql.org>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="35" height="35" />
 </a>
 &nbsp
 <a href=https://git-scm.com>
@@ -49,12 +45,14 @@
 <a href=https://en.wikipedia.org/wiki/TypeScript>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="35" height="35" />      
 </a>
+&nbsp
+<a href=https://angular.io>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularts" width="35" height="35" />      
+</a>
 </p>
 <h2> 📫 Info : </h2>
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/2560px-Spring_Framework_Logo_2018.svg.png
-
-https://img.icons8.com/color/344/typescript.png
+https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg
           
           
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorKawczynski&theme=jolly&exclude_repo=github-readme-stats,DataVisualisation2021,Algorithms-and-Data-Structures,DataStructureProject-AllShortestPaths)](https://github.com/anuraghazra/github-readme-stats)
