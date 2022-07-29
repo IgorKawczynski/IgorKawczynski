@@ -51,10 +51,7 @@
 </a>
 </p>
 <h2> 📫 Info : </h2>
-
-https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg
-          
-          
+             
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorKawczynski&theme=jolly&exclude_repo=github-readme-stats,DataVisualisation2021,Algorithms-and-Data-Structures,DataStructureProject-AllShortestPaths)](https://github.com/anuraghazra/github-readme-stats)
 ![IgorKawczynski's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorKawczynski&theme=jolly&show_icons=true)
 ![IgorKawczynski's counter](https://komarev.com/ghpvc/?username=IgorKawczynski&color=blueviolet)
