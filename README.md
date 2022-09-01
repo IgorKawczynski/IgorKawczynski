@@ -1,5 +1,5 @@
 <h2>Hi there 👊 I'm Igor - computer science student from Poland</h2>
-<br> 🧙‍♂️ I’m currently learning Spring Boot and Angular. I'm actually working with two web application projects and also on first game project in UNITY.</br>
+<br> 🧙‍♂️ I’m currently working with Spring Boot and Angular, also I'm actually engaged with two web application projects n' RPG game project in UNITY.</br>
 <h2> ⚡Technologies I'm using :</h2>
 <p align="left">
 <a href=https://www.python.org>
