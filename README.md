@@ -1,3 +1,8 @@
+![200763358-338d6953-4774-43ac-aa00-1d5ad81a7c94](https://user-images.githubusercontent.com/73948605/200927325-16bdc683-875b-45eb-ad09-4a0ab8421513.png)
+
+
+
+
 <h2>Hi there 👊 I'm Igor - computer science student from Poland</h2>
 <br> 🧙‍♂️ I’m currently working with Spring Boot and Angular, also I'm actually engaged with two web application projects n' RPG game project in UNITY.</br>
 <h2> ⚡Technologies I'm using :</h2>
