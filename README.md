@@ -51,14 +51,9 @@
 </a>
 </p>
 <h2> 📫 Info : </h2>
+Linkedin : https://www.linkedin.com/in/igor-kawczy%C5%84ski-2568792a5/
              
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorKawczynski&layout=compact&langs_count=10&theme=jolly&exclude_repo=github-readme-stats,DataVisualisation2021,Algorithms-and-Data-Structures,Machine-Graphics-162423,DataStructureProject-AllShortestPaths)](https://github.com/anuraghazra/github-readme-stats)
 ![IgorKawczynski's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorKawczynski&theme=jolly&show_icons=true)
 ![IgorKawczynski's counter](https://komarev.com/ghpvc/?username=IgorKawczynski&color=blueviolet)
-<p align="left">Note: Most used languages doesn't indicate my level skill of those languages, it's just an github metric of which languages I have the most code on the site.</p>
-
-```html
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="pl_PL" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="igor-kawczyński-2568792a5" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/igor-kawczy%C5%84ski-2568792a5?trk=profile-badge">Igor Kawczyński</a></div>
-```
-              
+<p align="left">Note: Most used languages doesn't indicate my level skill of those languages, it's just an github metric of which languages I have the most code on the site.</p>    
