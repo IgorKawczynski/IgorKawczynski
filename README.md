@@ -57,6 +57,8 @@
 ![IgorKawczynski's counter](https://komarev.com/ghpvc/?username=IgorKawczynski&color=blueviolet)
 <p align="left">Note: Most used languages doesn't indicate my level skill of those languages, it's just an github metric of which languages I have the most code on the site.</p>
 
+```html
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="pl_PL" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="igor-kawczyński-2568792a5" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/igor-kawczy%C5%84ski-2568792a5?trk=profile-badge">Igor Kawczyński</a></div>
+```
               
