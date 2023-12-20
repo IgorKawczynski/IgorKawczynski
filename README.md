@@ -1,5 +1,6 @@
 <h2>Hi there 👊 I'm Igor - computer science student and full stack developer from Poland</h2>
 <br> 🧙‍♂️ I’m currently working with Spring Boot and Angular, also I'm actually engaged in building web application in the needs of Engineer's Thesis.</br>
+Linkedin : https://www.linkedin.com/in/igor-kawczy%C5%84ski-2568792a5/
 <h2> ⚡Technologies I'm using :</h2>
 <p align="left">
 <a href=https://www.python.org>
@@ -51,7 +52,6 @@
 </a>
 </p>
 <h2> 📫 Info : </h2>
-Linkedin : https://www.linkedin.com/in/igor-kawczy%C5%84ski-2568792a5/
              
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorKawczynski&layout=compact&langs_count=10&theme=jolly&exclude_repo=github-readme-stats,DataVisualisation2021,Algorithms-and-Data-Structures,Machine-Graphics-162423,DataStructureProject-AllShortestPaths)](https://github.com/anuraghazra/github-readme-stats)
 ![IgorKawczynski's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorKawczynski&theme=jolly&show_icons=true)
