@@ -1,12 +1,8 @@
-<h2>Hi there 👊 I'm Igor - Full Stack Developer and Computer Science Student from Poland</h2>
-<br> 🧙‍♂️ I’m currently working with Spring Boot and Angular web applications, also I'm actually engaged in building web application in the needs of Engineer's Thesis.</br>
+<h2>Hi there 👊 I'm Igor - Regular Java + Angular Web Developer</h2>
+<br> 🧙‍♂️ I’m currently working with individual projects mostly created with Spring Boot and Angular Frameworks. Beside that, I'm actually engaged in building Docker + CI/CD pipelines.</br>
 Linkedin : https://www.linkedin.com/in/igor-kawczy%C5%84ski-2568792a5/
 <h2> ⚡Technologies I'm using :</h2>
 <p align="left">
-<a href=https://www.python.org>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="35" height="35" />
-</a>
-&nbsp
 <a href=https://www.java.com/pl>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="35" height="35" />
 </a>
@@ -15,12 +11,16 @@ Linkedin : https://www.linkedin.com/in/igor-kawczy%C5%84ski-2568792a5/
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="35" height="35" />      
 </a>
 &nbsp
-<a href=https://en.wikipedia.org/wiki/C_Sharp_(programming_language)>
-<img src="https://img.icons8.com/color/452/c-sharp-logo.png" alt="c#" width="35" height="35" />
+<a href=https://angular.io>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularts" width="35" height="35" />      
 </a>
 &nbsp
-<a href=https://unity.com>
-<img src="https://cdn-icons-png.flaticon.com/128/5969/5969294.png" alt="unity" width="35" height="35" />
+<a href=https://www.docker.com/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-original.svg" alt="dockericon" width="35" height="35" />      
+</a>
+&nbsp
+<a href=https://www.python.org>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="35" height="35" />
 </a>
 &nbsp
 <a href=https://www.mysql.com>
@@ -29,6 +29,14 @@ Linkedin : https://www.linkedin.com/in/igor-kawczy%C5%84ski-2568792a5/
 &nbsp
 <a href=https://www.postgresql.org>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="35" height="35" />
+</a>
+&nbsp
+<a href=https://en.wikipedia.org/wiki/C_Sharp_(programming_language)>
+<img src="https://img.icons8.com/color/452/c-sharp-logo.png" alt="c#" width="35" height="35" />
+</a>
+&nbsp
+<a href=https://unity.com>
+<img src="https://cdn-icons-png.flaticon.com/128/5969/5969294.png" alt="unity" width="35" height="35" />
 </a>
 &nbsp
 <a href=https://git-scm.com>
@@ -45,10 +53,6 @@ Linkedin : https://www.linkedin.com/in/igor-kawczy%C5%84ski-2568792a5/
 &nbsp
 <a href=https://en.wikipedia.org/wiki/TypeScript>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="35" height="35" />      
-</a>
-&nbsp
-<a href=https://angular.io>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularts" width="35" height="35" />      
 </a>
 </p>
 <h2> 📫 Info : </h2>
