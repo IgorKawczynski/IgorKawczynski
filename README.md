@@ -1,4 +1,5 @@
-<h2>Hi there 👊 I'm Igor - Regular Java + Angular Web Developer</h2>
+![wallpaper-github-final](https://github.com/user-attachments/assets/afcce1b5-16a1-4238-a5b3-9b9dc7ad1d90)
+
 <br> 🧙‍♂️ I’m currently working with individual projects mostly created with Spring Boot and Angular Frameworks. Beside that, I'm actually engaged in building Docker + CI/CD pipelines.</br>
 Linkedin : https://www.linkedin.com/in/igor-kawczy%C5%84ski-2568792a5/
 <h2> ⚡Technologies I'm using :</h2>
